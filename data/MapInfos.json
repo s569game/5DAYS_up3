@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":559.3333333333334,"scrollY":470},
-{"id":2,"expanded":true,"name":"草原の廃墟","order":4,"parentId":0,"scrollX":909,"scrollY":603},
+{"id":2,"expanded":true,"name":"草原の廃墟","order":4,"parentId":0,"scrollX":828,"scrollY":998.1818181818182},
 {"id":3,"expanded":true,"name":"接客室方面（日記用）","order":11,"parentId":15,"scrollX":816.5999999999999,"scrollY":655.8},
 {"id":4,"expanded":false,"name":"村の民家1F","order":19,"parentId":0,"scrollX":535.8,"scrollY":502.2},
 {"id":5,"expanded":true,"name":"湖景村1","order":29,"parentId":8,"scrollX":1028.5,"scrollY":740.5},
