@@ -17,9 +17,9 @@ null,
 {"id":15,"expanded":true,"name":"食堂（日記用）","order":8,"parentId":2,"scrollX":832.1999999999999,"scrollY":640.1999999999999},
 {"id":16,"expanded":false,"name":"1F02（医師部屋）","order":13,"parentId":15,"scrollX":909,"scrollY":603},
 {"id":17,"expanded":true,"name":"エントランスホール（日記用）","order":9,"parentId":15,"scrollX":816.5999999999999,"scrollY":655.8},
-{"id":18,"expanded":true,"name":"草原の廃墟","order":2,"parentId":1,"scrollX":952.1999999999999,"scrollY":847.8},
+{"id":18,"expanded":true,"name":"草原の廃墟","order":2,"parentId":1,"scrollX":828,"scrollY":998.1818181818182},
 {"id":19,"expanded":false,"name":"庭（日記用）","order":10,"parentId":15,"scrollX":664.1999999999999,"scrollY":367.8},
-{"id":20,"expanded":false,"name":"荘園（過去）","order":3,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":20,"expanded":false,"name":"荘園（過去）","order":3,"parentId":1,"scrollX":828,"scrollY":998.1818181818182},
 {"id":21,"expanded":true,"name":"ホワイトサンド精神病院","order":28,"parentId":8,"scrollX":856.1999999999999,"scrollY":847.8},
 {"id":22,"expanded":false,"name":"湖景村（船の中）","order":30,"parentId":8,"scrollX":1028.5,"scrollY":952.5},
 {"id":23,"expanded":true,"name":"赤の教会","order":25,"parentId":8,"scrollX":1644.6,"scrollY":838.1999999999999},
@@ -35,5 +35,5 @@ null,
 {"id":33,"expanded":false,"name":"探ストーリー001","order":35,"parentId":32,"scrollX":545.4,"scrollY":361.8},
 {"id":34,"expanded":false,"name":"キッチン（日記用）","order":12,"parentId":15,"scrollX":545.4,"scrollY":361.8},
 {"id":35,"expanded":false,"name":"荘園外（日記用）","order":17,"parentId":2,"scrollX":816.5999999999999,"scrollY":640.1999999999999},
-{"id":36,"expanded":false,"name":"泥ストーリー001","order":36,"parentId":32,"scrollX":545.4,"scrollY":361.8}
+{"id":36,"expanded":false,"name":"泥ストーリー001","order":36,"parentId":32,"scrollX":828,"scrollY":998.1818181818182}
 ]
